@@ -2,4 +2,4 @@
 
 # Haven't really tried this out yet since I'm on a Windows machine.
 
-
+python jsonr.py "$@"
